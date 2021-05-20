@@ -1,5 +1,5 @@
 ### To view the plotly charts, follow the given steps:
--visit http://nbviewer.jupyter.org/
+<li>visit http://nbviewer.jupyter.org/</li>
 -Paste the following URL : https://github.com/aditiversha/Coursera-Guided-Project/blob/main/Financial%20Analysis%20with%20Python.ipynb
 
 ### Financial Analysis - Approach
