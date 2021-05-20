@@ -8,3 +8,5 @@
 <li>	Perform data visualizations using Matplotlib and Plotly.</li>
 <li>	Analyse daily returns using histogram & distplot.</li>
 <li>	Obtain correlation between the price change of each stock using heatmaps from Seaborn</li>
+
+![alt text](http://url/to/newplot.png)
