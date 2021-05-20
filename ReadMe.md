@@ -7,4 +7,4 @@ Financial Analysis - Approach
 •	Normalize the data and calculate daily returns of the stocks.
 •	Perform data visualizations using Matplotlib and Plotly.
 •	Analyse daily returns using histogram & distplot.
-•	Obtain correlation between the price change of each stock using heatmaps from Seaborn.
+•	Obtain correlation between the price change of each stock using heatmaps from Seaborn
