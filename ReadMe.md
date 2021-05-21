@@ -1,13 +1,12 @@
-### To view the plotly charts, follow the given steps:
+### Note: To view the plotly charts, follow the given steps:
 <li>visit http://nbviewer.jupyter.org/</li>
 <li>Paste the following URL : https://github.com/aditiversha/Coursera-Guided-Project/blob/main/Financial%20Analysis%20with%20Python.ipynb</li>
 
-### Financial Analysis - Approach
-<li>	Performing Exploratory data analysis using NumPy.</li>
-<li>	Normalize the data and calculate daily returns of the stocks.</li>
-<li>	Perform data visualizations using Matplotlib and Plotly.</li>
-<li>	Analyse daily returns using histogram & distplot.</li>
-<li>	Obtain correlation between the price change of each stock using heatmaps from Seaborn</li>
+### Objective – To perform exploratory data analysis, data manipulation and data visualization.
+
+### Inference – 
+  <li> NFLX has maximum volatility (std dev – 129.76) and TWTR has least volatility (std dev – 11.48)</li>
+  <li> Price change of FB, TWTR & NFLX have positive correlation</li>
 
 ### Output Images
 #### Exploratory Data Analysis
